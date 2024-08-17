@@ -57,7 +57,7 @@
     <a href="https://www.photoshop.com/en" target="_blank"
         rel="noreferrer"> 
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+            src="![image](https://github.com/user-attachments/assets/96fc21d1-3e4a-432e-a9f9-ce779b8f9723)"
             alt="photoshop" width="40" height="40" color="white"/> 
     </a> 
     <a href="https://postman.com" target="_blank"
