@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **React and AWS**</p>
 
-- 📄 Know about my experience [Completed an internship at Evertz as a Project Engineer intern from January 2024 to June 2024](**Completed an internship at Evertz as a Project Engineer intern from January 2024 to June 2024**)</p>
+- 📄 Know about my experience [Completed an internship at Evertz as a Project Engineer intern from January 2024 to June 2024](**Completed an internship at Evertz as a Project Engineer intern from January 2024 to June 2024**)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
