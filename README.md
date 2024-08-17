@@ -5,19 +5,19 @@
 </h1>
 <h3 align="center">Tech Enthusiast | Software & Web Developer | Python, Java, C/C++</h3>
 
-<p>- 👤 About me: **B.Tech in Computer Science - 2024 | Skilled in C++, Java, Python, SQL, Web and Android Development,
+- 👤 About me: **B.Tech in Computer Science - 2024 | Skilled in C++, Java, Python, SQL, Web and Android Development,
     and Graphic Design.**</p>
 
-<p>- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available at
     [https://vinaykarande.github.io/Portfolio/](https://vinaykarande.github.io/Portfolio/)</p>
 
-<p>- 🧑‍💻 Passionate about [Web Technology and Software Development](Web Technology and Software Development)</p>
+- 🧑‍💻 Passionate about [Web Technology and Software Development](Web Technology and Software Development)</p>
 
-<p>- 📫 How to reach me **vinaykarande021@gmail.com**</p>
+- 📫 How to reach me **vinaykarande021@gmail.com**</p>
 
-<p>- 🌱 I’m currently learning **React and AWS**</p>
+- 🌱 I’m currently learning **React and AWS**</p>
 
-<p>- 📄 Know about my experience [Completed an internship at Evertz as a Project Engineer intern from January 2024 to
+- 📄 Know about my experience [Completed an internship at Evertz as a Project Engineer intern from January 2024 to
     June 2024](**Completed an internship at Evertz as a Project Engineer intern from January 2024 to June 2024**)</p>
 
 <h3 align="left">Connect with me:</h3>
@@ -46,7 +46,6 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
         alt="python" width="40" height="40" /> 
     </a>
-     
     <h4>Tools:</h4>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
         <img
@@ -68,14 +67,11 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
             width="40" height="40" /> 
     </a>
-
     <h4>Version Control</h4>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img
             src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="git" width="80" height="40"/> 
     </a>
-    
-    
     <h4>Web Technology</h4>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img
@@ -107,8 +103,6 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
             alt="express" width="40" height="40" /> 
     </a> 
-
-
     <h4>Databases:</h4>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img
@@ -129,8 +123,6 @@
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"
             height="40" /> 
     </a> 
-
-
     <h4>Other:</h4>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img
