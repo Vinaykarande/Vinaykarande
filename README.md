@@ -1,5 +1,5 @@
 <img src="https://github.com/Vinaykarande/Vinaykarande/blob/ccc5a76d51aae5888c17ad72ce40bb9d930a2eef/Banner.png"
-    align="center" height="300" width="1000" />
+    align="center" height="270" width="1000" />
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFD500&center=true&width=435&lines=Welcome+to+my+world;I+am+Vinay+Karande" alt="Typing SVG" /></a>
 </h1>
