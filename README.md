@@ -5,19 +5,18 @@
 </h1>
 <h3 align="center">Tech Enthusiast | Software & Web Developer | Python, Java, C/C++</h3>
 
-- 👤 About me: **B.Tech in Computer Science - 2024 | Skilled in C++, Java, Python, SQL, Web and Android Development,
-    and Graphic Design.**</p>
+- 👤 About me: **B.Tech in Computer Science - 2024 | Skilled in C++, Java, Python, SQL, Web and Android Development, and Graphic Design.**
 
 - 👨‍💻 All of my projects are available at
-    [https://vinaykarande.github.io/Portfolio/](https://vinaykarande.github.io/Portfolio/)</p>
+    [https://vinaykarande.github.io/Portfolio/](https://vinaykarande.github.io/Portfolio/)
 
-- 🧑‍💻 Passionate about [Web Technology and Software Development](Web Technology and Software Development)</p>
+- 🧑‍💻 Passionate about **Web Technology and Software Development**
+  
+- 📫 How to reach me **vinaykarande021@gmail.com**
 
-- 📫 How to reach me **vinaykarande021@gmail.com**</p>
+- 🌱 I’m currently learning **React and AWS**
 
-- 🌱 I’m currently learning **React and AWS**</p>
-
-- 📄 Know about my experience [Completed an internship at Evertz as a Project Engineer intern from January 2024 to June 2024](**Completed an internship at Evertz as a Project Engineer intern from January 2024 to June 2024**)
+- 📄 Know about my experience **Completed an internship at Evertz as a Project Engineer intern from January 2024 to June 2024**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
