@@ -3,7 +3,7 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFD500&center=true&width=435&lines=Welcome+to+my+world;I+am+Vinay+Karande" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">Tech Enthusiast | Software & Web Developer | Python, Java, C/C++</h3>
+<h3 align="center">Tech Enthusiast | Software & Web Development | Python, Java, C/C++</h3>
 
 - 👤 About me: **B.Tech in Computer Science - 2024 | Skilled in C++, Java, Python, SQL, Web and Android Development, and Graphic Design.**
 
