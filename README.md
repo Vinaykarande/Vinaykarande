@@ -3,9 +3,9 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFD500&center=true&width=435&lines=Welcome+to+my+world;I+am+Vinay+Karande" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">Tech Enthusiast | Software & Web Development | Python, Java, C/C++</h3>
+<h3 align="center">Associate Software Engineer @Tech Mahindra | Tech Enthusiast | Software & Web Development | Python, Java, C/C++</h3>
 
-- 👤 About me: **B.Tech in Computer Science - 2024 | Skilled in C++, Java, Python, SQL, Web and Android Development, and Graphic Design.**
+- 👤 About me: **Associate Software Engineer @Tech Mahindra | B.Tech in Computer Science - 2024 | Skilled in Java, Python, SQL, Hibernate, JPA, Spring, Spring Boot, Web and Android Development, and Graphic Design.**
 
 - 👨‍💻 All of my projects are available at
     [https://vinaykarande.github.io/Portfolio/](https://vinaykarande.github.io/Portfolio/)
@@ -14,9 +14,9 @@
   
 - 📫 How to reach me **vinaykarande021@gmail.com**
 
-- 🌱 I’m currently learning **React and AWS**
+- 🌱 I’m currently learning **AI/ML and AWS**
 
-- 📄 Know about my experience **Completed an internship at Evertz as a Project Engineer intern from January 2024 to June 2024**
+- 📄 Know about my experience **Currently working as Associate Software Engineer at Tech Mahindra | Completed an internship at Evertz as a Project Engineer intern from January 2024 to June 2024**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
