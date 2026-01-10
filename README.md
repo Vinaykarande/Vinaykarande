@@ -74,8 +74,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"
         alt="springboot" width="40" height="40" />
 </a>
-
-    <h4>Version Control</h4>
+<h4>Version Control</h4>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img
             src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="git" width="80" height="40"/> 
